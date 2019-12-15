@@ -2,4 +2,8 @@ the file on branch master
 Edit on the master branch
 
 
+<<<<<<< HEAD
 Edit on the branch1
+=======
+Extra edit on branch master
+>>>>>>> master
